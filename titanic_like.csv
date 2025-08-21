@@ -1,0 +1,10 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Fare,Embarked
+1,3,"Allen, Miss. Elisabeth",female,,0,0,7.25,S
+2,1,"Cumings, Mrs. John Bradley",female,38,1,0,71.2833,C
+3,3,"Heikkinen, Miss. Laina",female,26,0,0,7.925,S
+4,1,"Futrelle, Mrs. Jacques",female,35,1,0,53.1,S
+5,3,"Moran, Mr. James",male,,0,0,8.4583,Q
+6,3,"McCarthy, Mr. Timothy",male,54,0,0,51.8625,S
+7,1,"Bonnell, Miss. Elizabeth",female,58,0,0,26.55,S
+8,3,"Andersson, Mr. Anders Johan",male,39,1,5,31.275,S
+9,3,"Nosurname, Mr. Test",male,39,1,5,31.275,S
